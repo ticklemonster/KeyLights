@@ -1,4 +1,4 @@
-KeyLights for MacOS X
+#KeyLights for MacOS X
 
 KeyLights is based on Apple samples for USB keyboards.
 It was written as a quick way to turn the lights on my son's external USB keyboard (beacuse Mac's don't recognise SCROLL-LOCK, it seems).
